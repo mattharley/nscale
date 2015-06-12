@@ -36,7 +36,7 @@ As of v0.16, nscale supports running containers as processes, this mode is calle
 ### Production configuration
 ![Local Mode](docs/images/remotemod.png)
 
-In a prodction configuration, the nscale server is installed on a managment instance and is configured to manage and control a set of controlled server instances. This configuration is commonly used on top of cloud infrastructure or on premesis servers.
+In a production configuration, the nscale server is installed on a managment instance and is configured to manage and control a set of controlled server instances. This configuration is commonly used on top of cloud infrastructure or on premesis servers.
 
 ## Quickstart
 These quickstart instructions will get you up and running with nscale in a local development configuration. For more advanced use cases including production configrations on top of AWS please see the [documentation](https://github.com/nearform/nscale-docs).
